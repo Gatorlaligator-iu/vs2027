@@ -1,0 +1,323 @@
+# Sources surveillées par le tracker.
+# type: workday  -> URL publique d'un portail Workday (https://<tenant>.wdN.myworkdayjobs.com/<site>)
+# type: html     -> page web dont on lit les liens ; motif_lien = morceau d'URL propre aux offres
+# statut: "confirmé" = URL vérifiée ; "à vérifier" = bonne piste, le premier passage dira si ça marche
+#
+# Pour ajouter un cabinet : copie un bloc, change entreprise / type / url, pousse le fichier.
+
+filtres:
+  # L'intitulé (ou le lieu) doit contenir au moins un de ces termes
+  type_poste:
+    - "\\bintern(s|ship|ships)?\\b"
+    - "\\bstage\\b"
+    - "stagiaire"
+    - "praktik"
+    - "tirocinio"
+    - "off[- ]cycle"
+    - "graduate"
+    - "analyst program"
+  # Si le lieu est connu, il doit contenir un de ces termes
+  lieux:
+    - "paris"
+    - "france"
+    - "lyon"
+    - "munich"
+    - "münchen"
+    - "milan"
+    - "milano"
+    - "london"
+    - "londres"
+    - "berlin"
+  # L'intitulé (ou l'URL) doit évoquer un de tes métiers
+  metier:
+    - "m&a"
+    - "merger"
+    - "restructur"
+    - "debt"
+    - "dette"
+    - "advisory"
+    - "capital solutions"
+    - "corporate finance"
+    - "private equity"
+    - "capital[- ]investissement"
+    - "investment banking"
+    - "banque d'affaires"
+    - "strateg"
+    - "stratég"
+    - "consult"
+    - "valuation"
+    - "transaction"
+    - "turnaround"
+    - "retournement"
+    - "special situations"
+    - "lbo"
+    - "buyout"
+    - "sovereign"
+    - "infra"
+    - "energ"
+    - "renewable"
+    - "renouvelable"
+    - "power"
+    - "utilities"
+    - "investment"
+    - "investissement"
+  # On écarte ces formats
+  exclure:
+    # Démarrages hors fenêtre (avant juillet 2027) quand la date figure dans l'intitulé
+    - "(?<![0-9])2026(?![0-9])"                    # toute offre datée 2026
+    - "(may|mai|june|juin)[ -]*2027"               # mai / juin 2027 (hors fenêtre)
+    - "(january|janvier|february|février|fevrier|march|mars|april|avril)[ -]*2027"
+    - "\\b(jan|feb|mar|apr)[ .-]*2027"
+    - "\\b(q1|q2|h1|s1)[ -]*2027"
+    - "2027[ -]*(q1|q2|h1|s1)\\b"
+    - "summer intern"
+    - "summer analyst"
+    - "cyber"
+    - "compliance"
+    - "conformit"
+    - "forensic"
+    - "communications"
+    - "public affairs"
+    - "polytechnique"
+    - "networking"
+    - "meet-up"
+    - "aperitivo"
+    - "data scien"
+    - "data engineer"
+    - "marketing"
+    - "design"
+    - "human resources"
+    - "recrutement"
+    - "talent acquisition"
+    - "spring week"
+    - "insight"
+    - "alternance"
+    - "apprenti"
+    - "werkstudent"
+
+sources:
+  - entreprise: Houlihan Lokey
+    type: workday
+    url: https://hl.wd1.myworkdayjobs.com/Campus
+    statut: confirmé
+
+  - entreprise: Rothschild & Co
+    type: html
+    url: https://www.rothschildandco.com/fr/carrieres/etudiants-et-jeunes-diplomes/rechercher-un-programme/
+    # "ga-" = programmes de Paris ; "uk-" = Londres (on ignore les autres bureaux)
+    motif_lien: "rechercher-un-programme/(ga-|[0-9]{4}-uk-)"
+    statut: confirmé
+
+  - entreprise: Rothschild & Co – Paris
+    type: html
+    url: https://www.rothschildandco.com/fr/carrieres/etudiants-et-jeunes-diplomes/rechercher-un-programme/?taxonomy_1156=740
+    # filtre Paris du site : Global Advisory (ga-) + stages Five Arrows en français (stage-)
+    motif_lien: "rechercher-un-programme/(ga-|stage-)"
+    statut: confirmé
+
+  - entreprise: Five Arrows (Rothschild)
+    type: html
+    url: https://www.rothschildandco.com/fr/carrieres/etudiants-et-jeunes-diplomes/rechercher-un-programme/?taxonomy_1168=752
+    motif_lien: "rechercher-un-programme/(stage-|[0-9]{4}-five-arrows)"
+    statut: confirmé
+
+
+  # --- Restructuring, conseil ---
+  - entreprise: Alvarez & Marsal (via iAgora)
+    type: html
+    url: https://www.iagora.com/work/en/internships/at-Alvarez_%26_Marsal-33041
+    motif_lien: "/offer/"
+    lieu_depuis_url: true
+    statut: confirmé (page agrégateur) — restructuring
+
+
+  - entreprise: AlixPartners (officiel)
+    type: greenhouse
+    url: https://job-boards.greenhouse.io/alixpartners
+    statut: confirmé — restructuring (API Greenhouse, remplace iAgora)
+
+  # --- Conseil en stratégie ---
+  - entreprise: McKinsey (via iAgora)
+    type: html
+    url: https://www.iagora.com/work/en/internships/at-McKinsey_%26_Company-34453
+    motif_lien: "/offer/"
+    lieu_depuis_url: true
+    statut: confirmé (page agrégateur) — strat
+
+
+  - entreprise: Bain (via iAgora)
+    type: html
+    url: https://www.iagora.com/work/en/internships/at-Bain-34375
+    motif_lien: "/offer/"
+    lieu_depuis_url: true
+    statut: confirmé (page agrégateur) — strat
+
+  - entreprise: Roland Berger (officiel)
+    type: smartrecruiters
+    url: https://jobs.smartrecruiters.com/RolandBerger
+    metier_libre: true   # tout est du conseil en stratégie
+    statut: confirmé — strat (API SmartRecruiters, remplace iAgora)
+
+
+  # --- Private equity ---
+
+  - entreprise: PAI Partners
+    type: html
+    url: https://careers.paipartners.com/jobs
+    motif_lien: "/(jobs|o)/[a-z0-9-]{6,}"
+    statut: à vérifier (site Teamtailor)
+
+  # --- Restructuring, banque (portails Workday confirmés par le diagnostic) ---
+  - entreprise: PJT Partners
+    type: workday
+    url: https://pjtpartners.wd1.myworkdayjobs.com/Careers
+    statut: confirmé
+
+  - entreprise: Moelis
+    type: workday
+    url: https://moelis.wd1.myworkdayjobs.com/Experienced-Hires
+    statut: confirmé (portail « Experienced Hires » ; les stages peuvent être ailleurs)
+
+  # --- Conseil ---
+  - entreprise: Oliver Wyman
+    type: workday
+    url: https://mmc.wd1.myworkdayjobs.com/MMC
+    recherches: ["Oliver Wyman Paris", "Oliver Wyman Munich", "Oliver Wyman London", "Oliver Wyman Milan"]
+    statut: confirmé (portail Marsh McLennan, filtré sur Oliver Wyman)
+
+  - entreprise: EY (dont EY-Parthenon)
+    type: html
+    url: https://careers.ey.com/ey/search/?q=intern&locationsearch=Paris
+    motif_lien: "/job/"
+    lieu: Paris
+    statut: confirmé (page de recherche lisible)
+
+  - entreprise: Eight Advisory
+    type: html
+    url: https://www.8advisory.com/fr/carrieres
+    motif_lien: "/offers/"
+    statut: confirmé (liens d'offres en /offers/)
+
+  - entreprise: Accuracy
+    type: html
+    url: https://www.accuracy.com/careers
+    statut: à vérifier
+
+
+  # --- Private equity ---
+  - entreprise: Tikehau Capital
+    type: html
+    url: https://www.tikehaucapital.com/en/careers
+    statut: à vérifier
+
+  # --- Sites officiels (remplacent iAgora une fois validés) ---
+  - entreprise: Lazard (officiel)
+    type: oracle
+    url: https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/jobs
+    statut: confirmé
+
+
+  - entreprise: FTI Consulting (officiel)
+    type: workday
+    url: https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/?Work_Shift=bc4defc3dd95100116f43fece7930000
+    statut: confirmé
+
+
+  - entreprise: Ardian (officiel)
+    type: workday
+    url: https://ardian.wd103.myworkdayjobs.com/ArdianCareers
+    statut: confirmé (portail Workday trouvé via la page envoyée)
+
+  - entreprise: BCG (officiel)
+    type: phenom
+    url: https://careers.bcg.com/global/en/search-results
+    recherches: ["intern", "stage", "visiting associate"]
+    statut: confirmé (API cachée de la page de recherche)
+
+  - entreprise: Kearney (officiel)
+    type: html
+    url: https://kearney.recsolu.com/job_boards/1
+    motif_lien: "/jobs/"
+    lieu_depuis_titre: true   # la ville figure dans l'intitulé ; sans ville, l'offre est ignorée
+    statut: confirmé
+
+  - entreprise: Bpifrance (officiel)
+    type: html
+    url: https://talents.bpifrance.fr/nos-opportunites/?criteres=stage%7Ccapital-investissement
+    motif_lien: "/opportunites/[a-z0-9-]+/\\?id="
+    lieu: France
+    deja_filtre: true   # la page est déjà filtrée sur « stage » + « capital-investissement »
+    statut: confirmé
+
+  # --- PE infrastructure & énergie ---
+  - entreprise: Meridiam
+    type: recruitee
+    url: https://meridiam.recruitee.com/
+    statut: confirmé (diagnostic 3)
+
+
+  - entreprise: Brookfield
+    type: workday
+    url: https://brookfield.wd5.myworkdayjobs.com/brookfield
+    statut: confirmé (diagnostic 3)
+
+# Sites officiels illisibles par GitHub (iAgora garde le relais + tri navigateur 2x/jour) : Alvarez & Marsal, McKinsey, Bain, Kroll, Vauban, Omnes.
+# Non couverts automatiquement (site illisible ou introuvable) : Kroll, Perella Weinberg, KKR, CVC,
+# Cinven, Advent, Eurazeo (JobTeaser bloque), Wendel, Seven2, Antin (page Teamtailor illisible), Infravia, Mirova, Vauban, EQT, Macquarie, CIP, Omnes, Swen, Simon-Kucher.
+# -> couverts par tes alertes LinkedIn / JobTeaser / WTTJ et la veille Claude du lundi et du jeudi.
+
+  # --- Ajouts du 06/11 (liens envoyés) ---
+  - entreprise: Perella Weinberg
+    type: workday
+    url: https://wd1.myworkdaysite.com/recruiting/pwp/PWP_Experienced_Opportunities
+    statut: confirmé
+
+  - entreprise: Copenhagen Infrastructure Partners
+    type: workday
+    url: https://cip.wd103.myworkdayjobs.com/en-US/CIP_Careers?workerSubType=418338a600c810057e51e13bef7d0000
+    statut: confirmé
+
+  - entreprise: EQT
+    type: greenhouse
+    url: https://job-boards.eu.greenhouse.io/eqtpartners
+    statut: confirmé
+
+  - entreprise: Cinven
+    type: pinpoint
+    url: https://cinven.pinpointhq.com
+    statut: confirmé
+
+  - entreprise: Simon-Kucher
+    type: csod
+    url: https://simon-kucher.csod.com/ux/ats/careersite/6/home?c=simon-kucher
+    metier_libre: true   # tous les postes sont du conseil : on ne filtre que stage + ville
+    statut: confirmé
+
+  - entreprise: Infravia
+    type: html
+    url: https://infravia.sainoo.com
+    motif_lien: "/jobs/[0-9]+$"
+    lieu_depuis_titre: true
+    statut: confirmé
+
+  - entreprise: Macquarie
+    type: html
+    url: https://recruitment.macquarie.com/en_US/careers/SearchJobs/?10671=%5B871448%2C871449%2C871466%2C871428%2C871453%5D&10671_format=21337&7959=%5B421070%2C421069%5D&7959_format=14495&listFilterMode=1&jobRecordsPerPage=100&
+    motif_lien: "JobDetail\\?jobId="
+    statut: confirmé
+
+  - entreprise: Swen Capital Partners
+    type: html
+    url: https://www.ofi-invest.com/fr/carriere/nos-offres
+    motif_lien: "#list-"
+    lieu_depuis_titre: true
+    metier_libre: true
+    titre_requis: "swen"
+    statut: confirmé
+
+  - entreprise: Intesa Sanpaolo (plan B M&A, Milan)
+    type: html
+    url: https://jobs.intesasanpaolo.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_department=&optionsFacetsDD_customfield1=Students+%26+Graduates
+    motif_lien: "/job/"
+    lieu_depuis_url: true
+    statut: confirmé
