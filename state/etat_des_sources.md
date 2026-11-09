@@ -26,7 +26,7 @@
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 9 lus, 0 retenus |
 | Meridiam | 6 lus, 0 retenus |
-| Brookfield | 143 lus, 0 retenus |
+| Brookfield | 144 lus, 0 retenus |
 | Perella Weinberg | 8 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
