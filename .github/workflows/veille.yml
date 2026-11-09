@@ -19,7 +19,10 @@ concurrency:
 jobs:
   veille:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # GitHub ne lance le cron qu'environ une fois par heure : chaque exécution
+    # fait donc elle-même un passage toutes les 10 min pendant ~5 h 40.
+    # Les exécutions suivantes attendent leur tour (concurrency) et prennent le relais.
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -37,15 +40,25 @@ jobs:
           gh label create nouvelle-offre --color 2DA44E --description "Nouvelle offre détectée" 2>/dev/null || true
           gh label create initialisation --color 0969DA --description "Premier passage" 2>/dev/null || true
 
-      - name: Lancer la veille
+      - name: Veille toutes les 10 min
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python tracker.py | tee -a "$GITHUB_STEP_SUMMARY"
-
-      - name: Enregistrer les offres vues
+          DUREE_MAX: "20400"   # 5 h 40
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
-          git add state/seen.json state/etat_des_sources.md
-          git diff --cached --quiet || git commit -m "Veille : mise à jour des offres vues"
-          for i in 1 2 3 4; do git pull --rebase -q origin main && git push && break; echo "push échoué, nouvel essai dans 20 s"; sleep 20; done
+          fin=$((SECONDS + DUREE_MAX))
+          while true; do
+            debut=$SECONDS
+            git pull --rebase -q origin main || true
+            echo "## Passage $(date -u '+%H:%M') UTC" >> "$GITHUB_STEP_SUMMARY"
+            python tracker.py | tee -a "$GITHUB_STEP_SUMMARY" || echo "passage en échec, on continue"
+            git add state/seen.json state/etat_des_sources.md
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Veille : mise à jour des offres vues"
+              for i in 1 2 3 4; do git pull --rebase -q origin main && git push -q && break; echo "push échoué, nouvel essai dans 20 s"; sleep 20; done
+            fi
+            attente=$((600 - (SECONDS - debut)))
+            [ $((SECONDS + attente)) -ge $fin ] && break
+            [ $attente -gt 0 ] && sleep $attente
+          done
