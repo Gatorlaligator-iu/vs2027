@@ -22,7 +22,7 @@
 | Lazard (officiel) | 75 lus, 9 retenus |
 | FTI Consulting (officiel) | 55 lus, 4 retenus |
 | Ardian (officiel) | 68 lus, 1 retenus |
-| BCG (officiel) | 296 lus, 1 retenus |
+| BCG (officiel) | ERREUR : ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 9 lus, 0 retenus |
 | Meridiam | 6 lus, 0 retenus |
