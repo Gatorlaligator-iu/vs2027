@@ -21,7 +21,7 @@
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 74 lus, 9 retenus |
 | FTI Consulting (officiel) | 55 lus, 4 retenus |
-| Ardian (officiel) | 67 lus, 1 retenus |
+| Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 293 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 9 lus, 0 retenus |
