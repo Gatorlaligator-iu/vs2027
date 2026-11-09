@@ -2,7 +2,7 @@ name: Veille stages
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # toutes les 10 minutes
+    - cron: "3,13,23,33,43,53 * * * *"   # toutes les 10 min, décalé des heures pile (moins de retards GitHub)
   workflow_dispatch:        # bouton "Run workflow" pour lancer à la main
   push:                     # relance dès qu'on modifie les sources ou le script
     branches: [main]
