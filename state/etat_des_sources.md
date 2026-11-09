@@ -19,7 +19,7 @@
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
-| Lazard (officiel) | 74 lus, 9 retenus |
+| Lazard (officiel) | 73 lus, 9 retenus |
 | FTI Consulting (officiel) | 55 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 293 lus, 1 retenus |
