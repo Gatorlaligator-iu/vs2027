@@ -10,7 +10,7 @@
 | AlixPartners (officiel) | 129 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 13 lus, 0 retenus |
-| Roland Berger (officiel) | 207 lus, 6 retenus |
+| Roland Berger (officiel) | 206 lus, 6 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 55 lus, 0 retenus |
 | Moelis | 34 lus, 0 retenus |
@@ -25,7 +25,7 @@
 | BCG (officiel) | 291 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 9 lus, 0 retenus |
-| Meridiam | 6 lus, 0 retenus |
+| Meridiam | 5 lus, 0 retenus |
 | Brookfield | 144 lus, 0 retenus |
 | Perella Weinberg | 8 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
