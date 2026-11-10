@@ -3,8 +3,8 @@
 | Source | Résultat |
 |---|---|
 | Houlihan Lokey | 50 lus, 2 retenus |
-| Rothschild & Co | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
-| Rothschild & Co – Paris | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
+| Rothschild & Co | 25 lus, 12 retenus |
+| Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 129 lus, 0 retenus |
