@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 73 lus, 9 retenus |
-| FTI Consulting (officiel) | 55 lus, 4 retenus |
+| FTI Consulting (officiel) | 54 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 291 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
