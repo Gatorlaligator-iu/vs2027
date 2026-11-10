@@ -13,16 +13,16 @@
 | Roland Berger (officiel) | 207 lus, 6 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 55 lus, 0 retenus |
-| Moelis | 34 lus, 0 retenus |
+| Moelis | 33 lus, 0 retenus |
 | Oliver Wyman | 474 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 73 lus, 9 retenus |
-| FTI Consulting (officiel) | 54 lus, 4 retenus |
+| FTI Consulting (officiel) | 56 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
-| BCG (officiel) | 291 lus, 1 retenus |
+| BCG (officiel) | 290 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
@@ -31,7 +31,7 @@
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 117 lus, 12 retenus |
+| Simon-Kucher | 118 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 12 lus, 1 retenus |
