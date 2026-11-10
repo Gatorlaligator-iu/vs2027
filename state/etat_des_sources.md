@@ -17,7 +17,7 @@
 | Oliver Wyman | 474 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
-| Accuracy | ERREUR : 500 Server Error: Internal Server Error for url: https://www.accuracy.com/career |
+| Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 73 lus, 9 retenus |
 | FTI Consulting (officiel) | 54 lus, 4 retenus |
