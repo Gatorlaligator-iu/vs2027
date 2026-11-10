@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | ERREUR : 502 Server Error: Bad Gateway for url: https://hl.wd1.myworkdayjobs.com/wday/cxs |
+| Houlihan Lokey | 50 lus, 2 retenus |
 | Rothschild & Co | 25 lus, 12 retenus |
 | Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
