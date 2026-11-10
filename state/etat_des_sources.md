@@ -10,7 +10,7 @@
 | AlixPartners (officiel) | 129 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 13 lus, 0 retenus |
-| Roland Berger (officiel) | 205 lus, 6 retenus |
+| Roland Berger (officiel) | 207 lus, 6 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 55 lus, 0 retenus |
 | Moelis | 34 lus, 0 retenus |
