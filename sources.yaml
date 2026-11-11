@@ -28,6 +28,8 @@ filtres:
     - "london"
     - "londres"
     - "berlin"
+    - "new york"
+    - "nyc"
   # L'intitulé (ou l'URL) doit évoquer un de tes métiers
   metier:
     - "m&a"
@@ -321,3 +323,34 @@ sources:
     motif_lien: "/job/"
     lieu_depuis_url: true
     statut: confirmé
+
+  # --- Ajouts du 11/11/2026 (ex-tri navigateur + élargissement) ---
+  - entreprise: Antin Infrastructure Partners
+    type: teamtailor
+    url: https://antininfrastructurepartners-1655458195.teamtailor.com/jobs
+    statut: confirmé — flux RSS Teamtailor
+
+  - entreprise: Mutares (Munich, turnaround)
+    type: teamtailor
+    url: https://career.mutares.com/jobs
+    statut: confirmé — flux RSS Teamtailor
+
+  - entreprise: Aurelius (Munich, turnaround)
+    type: workday
+    url: https://aureliusinvest.wd3.myworkdayjobs.com/AURELIUS
+    statut: à vérifier
+
+  - entreprise: Lincoln International
+    type: greenhouse
+    url: https://job-boards.greenhouse.io/lincolninternational
+    statut: confirmé — API Greenhouse
+
+  - entreprise: Evercore (Europe)
+    type: smartrecruiters
+    url: https://jobs.smartrecruiters.com/Wiser
+    statut: à vérifier — Evercore Europe publie sous « Wiser »
+
+  - entreprise: KKR
+    type: greenhouse
+    url: https://job-boards.greenhouse.io/staged
+    statut: confirmé — tableau Greenhouse étudiants de KKR (jeton « staged »)

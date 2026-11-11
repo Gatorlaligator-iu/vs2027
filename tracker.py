@@ -1,7 +1,7 @@
 """Veille stages : interroge les pages carrières des cabinets cibles,
 repère les nouvelles offres et ouvre une issue GitHub pour chacune.
 
-Lancé toutes les heures par GitHub Actions (.github/workflows/veille.yml).
+Lancé toutes les 10 min par GitHub Actions (.github/workflows/veille.yml).
 """
 import hashlib
 import json
@@ -263,10 +263,112 @@ def fetch_smartrecruiters(src):
     return jobs
 
 
+
+# ---------------------------------------------------------------- lecture de l'annonce
+MOIS_OK = r"(juil\w*|july|jul\.?|luglio|juli|sept\w*|sep\.?|settembre)"
+MOIS_KO = (r"(janv\w*|january|jan\.?|gennaio|januar|f[ée]vr\w*|february|feb\.?|febbraio|februar|mars|march|marzo|m[äa]rz|"
+           r"avril|april|apr\.?|aprile|mai|may|maggio|juin|june|giugno|juni|"
+           r"(?:septembre|september|settembre|octobre|october|ottobre|novembre|november|d[ée]cembre|december|dicembre)\s*(?:de\s*)?2026)")
+DEBUT = r"(d[ée]but|d[ée]marr|start|starting|commenc|à partir|from|inizio|beginn|ab dem|ab\b|date)"
+RE_OK = re.compile(MOIS_OK + r"[^0-9\n]{0,12}2027|2027[^0-9\n]{0,4}" + MOIS_OK, re.I)
+RE_KO = re.compile(DEBUT + r"[^\n]{0,60}?" + MOIS_KO + r"(?:[^0-9\n]{0,12}2027)?", re.I)
+RE_ASAP = re.compile(r"d[èe]s que possible|asap|as soon as possible|immediately|immédiatement|il prima possibile|ab sofort", re.I)
+EXIGE = r"(courant|fluent|fluency|native|bilingu|madrelingua|ottim\w*|excellent|required|requis|obligatoire|indispensable|essential|verhandlungssicher|flie[sß]end|proficien)"
+RE_IT = re.compile(r"(italien|italian|italiano)[^.\n]{0,50}" + EXIGE + "|" + EXIGE + r"[^.\n]{0,50}(italien|italian|italiano)", re.I)
+RE_DE = re.compile(r"(allemand|german|deutsch)[^.\n]{0,50}" + EXIGE + "|" + EXIGE + r"[^.\n]{0,50}(allemand|german|deutsch)", re.I)
+MOTS_IT = re.compile(r"\b(della|degli|nell[ae]|stage curriculare|tirocinio|candidato|requisiti|laurea)\b", re.I)
+MOTS_DE = re.compile(r"\b(und|für|wir|unser\w*|Kenntnisse|Studium|Praktikum)\b")
+
+
+def texte_html(url):
+    r = requests.get(url, headers=BROWSER, timeout=TIMEOUT)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    for t in soup(["script", "style", "nav", "footer", "header"]):
+        t.decompose()
+    return soup.get_text(" ")
+
+
+def texte_annonce(job, src):
+    """Texte complet de l'annonce (API de l'ATS si possible, sinon la page)."""
+    t, url = src["type"], job["url"]
+    try:
+        if t == "workday":
+            u = urlparse(url)
+            parts = [p for p in u.path.split("/") if p]
+            if "myworkdaysite" in u.netloc:
+                tenant, site, rest = parts[1], parts[2], "/".join(parts[3:])
+            else:
+                tenant, site, rest = u.netloc.split(".")[0], parts[0], "/".join(parts[1:])
+            r = requests.get(f"{u.scheme}://{u.netloc}/wday/cxs/{tenant}/{site}/{rest}",
+                             headers={"User-Agent": UA, "Accept": "application/json"}, timeout=TIMEOUT)
+            r.raise_for_status()
+            info = r.json().get("jobPostingInfo", {})
+            return BeautifulSoup(info.get("jobDescription", ""), "html.parser").get_text(" ") + " " + info.get("startDate", "")
+        if t == "greenhouse":
+            m = re.search(r"/jobs/([0-9]+)", url) or re.search(r"gh_jid=([0-9]+)", url)
+            board = [p for p in urlparse(src["url"]).path.split("/") if p][0]
+            if m:
+                r = requests.get(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs/{m.group(1)}?content=true",
+                                 headers={"User-Agent": UA}, timeout=TIMEOUT)
+                r.raise_for_status()
+                import html as _h
+                return BeautifulSoup(_h.unescape(r.json().get("content", "")), "html.parser").get_text(" ")
+        if t == "smartrecruiters":
+            company, pid = [p for p in urlparse(url).path.split("/") if p][:2]
+            r = requests.get(f"https://api.smartrecruiters.com/v1/companies/{company}/postings/{pid}",
+                             headers={"User-Agent": UA}, timeout=TIMEOUT)
+            r.raise_for_status()
+            sec = (r.json().get("jobAd") or {}).get("sections") or {}
+            return BeautifulSoup(" ".join((v or {}).get("text", "") for v in sec.values()), "html.parser").get_text(" ")
+        return texte_html(url)
+    except Exception:
+        return ""
+
+
+def analyse(job, src):
+    """Renvoie (statut_date, etiquettes) ; statut = ok / hors / inconnue."""
+    txt = norm(f"{job['title']} {texte_annonce(job, src)}")
+    if len(txt) < 80:
+        return "inconnue", ["annonce illisible"], ""
+    if RE_OK.search(txt):
+        statut = "ok"
+    elif RE_KO.search(txt):
+        statut = "hors"
+    else:
+        statut = "inconnue"
+    tags = []
+    if statut == "inconnue" and RE_ASAP.search(txt):
+        tags.append("« dès que possible »")
+    if RE_IT.search(txt) or len(MOTS_IT.findall(txt)) >= 6:
+        tags.append("🗣️ italien exigé")
+    if RE_DE.search(txt) or len(MOTS_DE.findall(txt)) >= 12:
+        tags.append("🗣️ allemand exigé")
+    m = RE_OK.search(txt) or RE_KO.search(txt)
+    extrait = txt[max(0, m.start() - 60):m.end() + 40] if m else ""
+    return statut, tags, extrait
+
+
+def fetch_teamtailor(src):
+    """Teamtailor : flux RSS public https://<societe>.teamtailor.com/jobs.rss"""
+    import xml.etree.ElementTree as ET
+    u = urlparse(src["url"])
+    r = requests.get(f"{u.scheme}://{u.netloc}/jobs.rss", headers={"User-Agent": UA}, timeout=TIMEOUT)
+    r.raise_for_status()
+    root = ET.fromstring(r.content)
+    jobs = []
+    for it in root.iter("item"):
+        locs = " / ".join(norm(" ".join(e.itertext())) for e in it.iter() if e.tag.endswith("location"))
+        jobs.append({"title": norm(it.findtext("title")), "location": locs,
+                     "url": norm(it.findtext("link")), "posted": norm(it.findtext("pubDate"))})
+    return jobs
+
+
 GENERIC = {"learn more", "en savoir plus", "voir l'offre", "voir le programme", "postuler", "apply", "apply now", "read more", "découvrir"}
 
 FETCHERS = {"workday": fetch_workday, "html": fetch_html, "oracle": fetch_oracle, "phenom": fetch_phenom, "recruitee": fetch_recruitee,
-            "greenhouse": fetch_greenhouse, "pinpoint": fetch_pinpoint, "csod": fetch_csod, "smartrecruiters": fetch_smartrecruiters}
+            "greenhouse": fetch_greenhouse, "pinpoint": fetch_pinpoint, "csod": fetch_csod, "smartrecruiters": fetch_smartrecruiters,
+            "teamtailor": fetch_teamtailor}
 
 
 # ---------------------------------------------------------------- GitHub
@@ -312,6 +414,7 @@ def main():
         known_sources.add(name)
         for j in kept:
             j["entreprise"] = name
+            j["_src"] = src
             current.append(j)
             jid = job_id(j)
             if jid not in seen:
@@ -338,14 +441,27 @@ def main():
             ["initialisation"],
         )
     else:
+        ecartees = []
         for j in new:
+            statut, tags, extrait = analyse(j, j["_src"])
+            if statut == "hors":
+                ecartees.append(f"| {j['entreprise']} | {j['title']} | {extrait[:120]} |")
+                continue
+            prefixe = "✅ juil./sept. 2027" if statut == "ok" else "⚠️ date à vérifier"
+            etiq = (" · " + " · ".join(tags)) if tags else ""
+            lieu = (j['location'] if not j['location'].startswith('http') else 'voir le lien') or 'non précisé'
             gh_issue(
-                f"🆕 {j['entreprise']} — {j['title']}",
+                f"🆕 {prefixe}{etiq} — {j['entreprise']} — {j['title']}",
                 f"**Entreprise :** {j['entreprise']}\n\n**Poste :** {j['title']}\n\n"
-                f"**Lieu :** {(j['location'] if not j['location'].startswith('http') else 'voir le lien') or 'non précisé'}\n\n**Publié :** {j['posted'] or 'non précisé'}\n\n"
-                f"**Lien :** {j['url']}\n\n_À ajouter à l'onglet Offres de ton tracker._",
+                f"**Lieu :** {lieu}\n\n**Publié :** {j['posted'] or 'non précisé'}\n\n"
+                f"**Date de début :** {'juillet / septembre 2027 trouvé dans l annonce' if statut == 'ok' else 'pas trouvée automatiquement, à vérifier'}"
+                f"{(' — « …' + extrait + '… »') if extrait else ''}\n\n"
+                f"**Points d'attention :** {', '.join(tags) or 'aucun'}\n\n"
+                f"**Lien :** {j['url']}\n\n_À ajouter à l'onglet Offres de ton tracker si la date est bonne._",
                 ["nouvelle-offre"],
             )
+        if ecartees:
+            print("\n### Écartées (début hors fenêtre)\n| Entreprise | Poste | Extrait |\n|---|---|---|\n" + "\n".join(ecartees))
 
     if seeded:
         lines = "\n".join(f"- **{j['entreprise']}** : [{j['title']}]({j['url']})" for j in seeded)
