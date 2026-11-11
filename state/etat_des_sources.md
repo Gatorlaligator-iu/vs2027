@@ -31,8 +31,14 @@
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 121 lus, 12 retenus |
+| Simon-Kucher | 122 lus, 15 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 12 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
+| Antin Infrastructure Partners | 1 lus, 0 retenus |
+| Mutares (Munich, turnaround) | 24 lus, 1 retenus |
+| Aurelius (Munich, turnaround) | 34 lus, 1 retenus |
+| Lincoln International | 37 lus, 1 retenus |
+| Evercore (Europe) | 1 lus, 1 retenus |
+| KKR | 8 lus, 2 retenus |

@@ -242,6 +242,7 @@
   "Antin Infrastructure Partners",
   "Ardian (officiel)",
   "Ardian (via iAgora)",
+  "Aurelius (Munich, turnaround)",
   "BCG (officiel)",
   "Bain",
   "Bain (via iAgora)",
@@ -252,20 +253,24 @@
   "EQT",
   "EY (dont EY-Parthenon)",
   "Eight Advisory",
+  "Evercore (Europe)",
   "FTI Consulting (officiel)",
   "FTI Consulting (via iAgora)",
   "Five Arrows (Rothschild)",
   "Houlihan Lokey",
   "Infravia",
   "Intesa Sanpaolo (plan B M&A, Milan)",
+  "KKR",
   "Kearney (officiel)",
   "Kearney (via iAgora)",
   "Lazard (officiel)",
   "Lazard (via iAgora)",
+  "Lincoln International",
   "Macquarie",
   "McKinsey (via iAgora)",
   "Meridiam",
   "Moelis",
+  "Mutares (Munich, turnaround)",
   "Oliver Wyman",
   "PAI Partners",
   "PJT Partners",
@@ -677,5 +682,50 @@
   "title": "Intern",
   "entreprise": "Roland Berger (officiel)",
   "url": "https://jobs.smartrecruiters.com/RolandBerger/744000161040784"
+ },
+ "0855b8c2f2f98f91": {
+  "title": "Summer 2027 Intern - Americas Division (MBA)",
+  "entreprise": "Simon-Kucher",
+  "url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/4455?c=simon-kucher"
+ },
+ "ed79cd195976fa9b": {
+  "title": "Summer 2027 Intern - Americas Division [UG/Masters]",
+  "entreprise": "Simon-Kucher",
+  "url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/4261?c=simon-kucher"
+ },
+ "12186902344f0663": {
+  "title": "Summer 2027 Intern - Healthcare & Life Sciences Division - US/LATAM [UG/Masters]",
+  "entreprise": "Simon-Kucher",
+  "url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/4123?c=simon-kucher"
+ },
+ "b38084eeed0c30d9": {
+  "title": "Intern - Restructuring (m/f/x)",
+  "entreprise": "Mutares (Munich, turnaround)",
+  "url": "https://career.mutares.com/jobs/7214490-intern-restructuring-m-f-x"
+ },
+ "57eb6eb055ecb5bb": {
+  "title": "Investment Intern (m/f/d)",
+  "entreprise": "Aurelius (Munich, turnaround)",
+  "url": "https://aureliusinvest.wd3.myworkdayjobs.com/AURELIUS/job/Milan/Investment-Intern--m-f-d-_JR100437"
+ },
+ "8f3f0543f66692fb": {
+  "title": "2027 M&A Summer Associate Intern",
+  "entreprise": "Lincoln International",
+  "url": "http://www.lincolninternational.com/greenhouse/?gh_jid=8106841"
+ },
+ "a4deb5f3d0ab0bb5": {
+  "title": "Off Cycle Internship - Strategic, Defense and Shareholder Advisory (SDSA) London",
+  "entreprise": "Evercore (Europe)",
+  "url": "https://jobs.smartrecruiters.com/Wiser/744000160867459"
+ },
+ "b453a31c0d0615b2": {
+  "title": "2027 MBA Internship Program - Infrastructure",
+  "entreprise": "KKR",
+  "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6235966004"
+ },
+ "0219c7a66b544bc5": {
+  "title": "2027 Off Cycle Intern - Private Equity - Global Impact",
+  "entreprise": "KKR",
+  "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6213029004"
  }
 }
