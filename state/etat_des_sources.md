@@ -10,7 +10,7 @@
 | AlixPartners (officiel) | 127 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 13 lus, 0 retenus |
-| Roland Berger (officiel) | 208 lus, 7 retenus |
+| Roland Berger (officiel) | 210 lus, 7 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
@@ -31,7 +31,7 @@
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 119 lus, 12 retenus |
+| Simon-Kucher | 120 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 12 lus, 1 retenus |
