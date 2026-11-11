@@ -14,12 +14,12 @@
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
-| Oliver Wyman | 474 lus, 1 retenus |
+| Oliver Wyman | 475 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
-| Lazard (officiel) | 73 lus, 9 retenus |
+| Lazard (officiel) | 74 lus, 9 retenus |
 | FTI Consulting (officiel) | 57 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 283 lus, 1 retenus |
