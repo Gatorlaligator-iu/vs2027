@@ -76,6 +76,7 @@ filtres:
     - "summer[ -]*20(26|27)"
     - "20(26|27)[ -]*summer"
     - "summer analyst"
+    - "\\bmba\\b"
     - "cyber"
     - "compliance"
     - "conformit"
