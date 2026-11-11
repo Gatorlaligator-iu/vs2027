@@ -19,7 +19,7 @@
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
-| Lazard (officiel) | 74 lus, 9 retenus |
+| Lazard (officiel) | 75 lus, 9 retenus |
 | FTI Consulting (officiel) | 57 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 283 lus, 1 retenus |
@@ -31,7 +31,7 @@
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 122 lus, 15 retenus |
+| Simon-Kucher | 122 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 12 lus, 1 retenus |
@@ -41,4 +41,4 @@
 | Aurelius (Munich, turnaround) | 34 lus, 1 retenus |
 | Lincoln International | 37 lus, 1 retenus |
 | Evercore (Europe) | 1 lus, 1 retenus |
-| KKR | 8 lus, 2 retenus |
+| KKR | 8 lus, 1 retenus |
