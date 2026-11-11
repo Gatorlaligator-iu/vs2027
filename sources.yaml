@@ -73,6 +73,8 @@ filtres:
     - "\\b(q1|q2|h1|s1)[ -]*2027"
     - "2027[ -]*(q1|q2|h1|s1)\\b"
     - "summer intern"
+    - "summer[ -]*20(26|27)"
+    - "20(26|27)[ -]*summer"
     - "summer analyst"
     - "cyber"
     - "compliance"
