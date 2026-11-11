@@ -24,7 +24,7 @@
 | Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 285 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
-| Bpifrance (officiel) | ERREUR : HTTPSConnectionPool(host='talents.bpifrance.fr', port=443): Read timed out. (rea |
+| Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | 143 lus, 0 retenus |
 | Perella Weinberg | 8 lus, 0 retenus |
