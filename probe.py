@@ -1,4 +1,4 @@
-"""Diagnostic ponctuel (8e série) : sites du tri navigateur + nouveaux cabinets."""
+"""Diagnostic ponctuel (9e série) : sites du tri navigateur + nouveaux cabinets."""
 import os
 import re
 
@@ -44,32 +44,15 @@ def ctx(name, url, motif, n=6):
         out.append(f"### {name}\n- ERREUR {str(e)[:120]}")
 
 
-ctx("KKR greenhouse", "https://www.kkr.com/careers/student-careers/student-career-opportunities", r"greenhouse|job_board|for=")
-api("Mutares RSS", "https://career.mutares.com/jobs.rss")
-api("Aurelius RSS", "https://career.aurelius-group.com/jobs.rss")
-page("Aurelius career", "https://career.aurelius-group.com/")
-api("Evercore SR", "https://api.smartrecruiters.com/v1/companies/Evercore/postings?limit=5")
-api("Evercore SR2", "https://api.smartrecruiters.com/v1/companies/EvercorePartnersInternationalLLP/postings?limit=5")
-ctx("Evercore EU", "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/", r"smartrecruiters|click here")
-ctx("Deloitte FR stages", "https://www.deloitte.com/fr/fr/careers/content/job/results.html", r"myworkday|workday|api|json")
-ctx("Seven2 WK", "https://seven2.welcomekit.co", r"reference|organization|jobs")
-ctx("Mirova", "https://recrutement.natixis.com/nos-offres-demploi?tax_brands=mirova,mirova-us&external=false", r"api|json|ajax|wp-json")
-api("Natixis wp-json", "https://recrutement.natixis.com/wp-json/wp/v2/types")
-page("Eurazeo carrières", "https://www.eurazeo.com/fr/talents")
-ctx("Eurazeo home", "https://www.eurazeo.com/fr", r"carri|career|talent|recrut")
-ctx("Wendel home", "https://www.wendelgroup.com/fr/", r"carri|career|talent|recrut|rejoindre")
-page("Omnes careers", "https://www.omnescapital.com/culture-and-careers")
-ctx("Centerview", "https://www.centerviewpartners.com/careers", r"apply|job|greenhouse|lever|workday")
-ctx("Arcmont home", "https://arcmont.com/", r"career|join|vacanc")
-ctx("Lincoln GH Paris", "https://boards-api.greenhouse.io/v1/boards/lincolninternational/jobs", r"Paris|Munich|Frankfurt|Milan|London|New York", 10)
-page("Quantum", "https://quantum-capitalpartners.com/")
-page("DC Advisory", "https://www.dcadvisory.com/careers/students-and-graduates/")
-page("Vauban", "https://vauban-ip.com/en/")
+api("KKR GH staged", "https://boards-api.greenhouse.io/v1/boards/staged/jobs", n=1500)
+ctx("Eurazeo opportunités", "https://www.eurazeo.com/fr/talents/opportunites", r"href=\"[^\"]*(offre|opportunit|job|jobteaser|welcome)[^\"]*\"", 15)
+api("Evercore Wiser", "https://api.smartrecruiters.com/v1/companies/Wiser/postings?limit=100", n=3000)
+api("Aurelius WD", "https://aureliusinvest.wd3.myworkdayjobs.com/wday/cxs/aureliusinvest/AURELIUS/jobs", "post", WD, n=1500)
 
 body = "\n\n".join(out)
 print(body)
 repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
 if repo and token:
     requests.post(f"https://api.github.com/repos/{repo}/issues",
-                  json={"title": "Diagnostic des sources (8)", "body": body[:60000], "labels": ["diagnostic"]},
+                  json={"title": "Diagnostic des sources (9)", "body": body[:60000], "labels": ["diagnostic"]},
                   headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}, timeout=25)
