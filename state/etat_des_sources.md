@@ -14,7 +14,7 @@
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
-| Oliver Wyman | ERREUR : 502 Server Error: Bad Gateway for url: https://mmc.wd1.myworkdayjobs.com/wday/cx |
+| Oliver Wyman | 474 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
@@ -34,7 +34,7 @@
 | Simon-Kucher | 121 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
-| Swen Capital Partners | 12 lus, 1 retenus |
+| Swen Capital Partners | ERREUR : 500 Server Error: Internal Server Error for url: https://www.ofi-invest.com/fr/c |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
