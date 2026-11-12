@@ -15,7 +15,7 @@
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
 | Oliver Wyman | 97 lus, 1 retenus |
-| EY (dont EY-Parthenon) | ERREUR : HTTPSConnectionPool(host='careers.ey.com', port=443): Read timed out. (read time |
+| EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
