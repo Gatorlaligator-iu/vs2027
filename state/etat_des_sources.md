@@ -31,7 +31,7 @@
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 121 lus, 12 retenus |
+| Simon-Kucher | 122 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 10 lus, 1 retenus |
