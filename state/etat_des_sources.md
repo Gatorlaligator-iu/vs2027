@@ -12,9 +12,9 @@
 | Bain (via iAgora) | 13 lus, 0 retenus |
 | Roland Berger (officiel) | 210 lus, 7 retenus |
 | PAI Partners | 14 lus, 0 retenus |
-| PJT Partners | 53 lus, 0 retenus |
+| PJT Partners | ERREUR : 502 Server Error: Bad Gateway for url: https://pjtpartners.wd1.myworkdayjobs.com |
 | Moelis | 33 lus, 0 retenus |
-| Oliver Wyman | ERREUR : 502 Server Error: Bad Gateway for url: https://mmc.wd1.myworkdayjobs.com/wday/cx |
+| Oliver Wyman | 475 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
@@ -22,7 +22,7 @@
 | Lazard (officiel) | 75 lus, 10 retenus |
 | FTI Consulting (officiel) | 57 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
-| BCG (officiel) | 283 lus, 1 retenus |
+| BCG (officiel) | 282 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
