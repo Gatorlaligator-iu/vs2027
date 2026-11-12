@@ -36,7 +36,7 @@
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 10 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
-| Antin Infrastructure Partners | 1 lus, 0 retenus |
+| Antin Infrastructure Partners | ERREUR : 502 Server Error: Bad Gateway for url: https://antininfrastructurepartners-16554 |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | 34 lus, 1 retenus |
 | Lincoln International | 36 lus, 1 retenus |
