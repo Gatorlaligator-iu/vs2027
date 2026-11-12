@@ -7,19 +7,19 @@
 | Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
-| AlixPartners (officiel) | 127 lus, 0 retenus |
+| AlixPartners (officiel) | 128 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 13 lus, 0 retenus |
 | Roland Berger (officiel) | 210 lus, 7 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
-| Oliver Wyman | 474 lus, 1 retenus |
+| Oliver Wyman | ERREUR : 502 Server Error: Bad Gateway for url: https://mmc.wd1.myworkdayjobs.com/wday/cx |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
-| Lazard (officiel) | 77 lus, 10 retenus |
+| Lazard (officiel) | 75 lus, 10 retenus |
 | FTI Consulting (officiel) | 57 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 283 lus, 1 retenus |
