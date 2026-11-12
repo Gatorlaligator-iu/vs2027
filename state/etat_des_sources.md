@@ -34,7 +34,7 @@
 | Simon-Kucher | 121 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
-| Swen Capital Partners | ERREUR : 500 Server Error: Internal Server Error for url: https://www.ofi-invest.com/fr/c |
+| Swen Capital Partners | 12 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
