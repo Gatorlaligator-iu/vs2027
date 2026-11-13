@@ -25,7 +25,7 @@
 | BCG (officiel) | 288 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
-| Meridiam | 5 lus, 0 retenus |
+| Meridiam | ERREUR : 500 Server Error: Internal Server Error for url: https://meridiam.recruitee.com/ |
 | Brookfield | 143 lus, 0 retenus |
 | Perella Weinberg | 7 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
