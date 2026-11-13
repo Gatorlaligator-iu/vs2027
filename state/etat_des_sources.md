@@ -15,7 +15,7 @@
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 32 lus, 0 retenus |
 | Oliver Wyman | 97 lus, 1 retenus |
-| EY (dont EY-Parthenon) | 25 lus, 0 retenus |
+| EY (dont EY-Parthenon) | ERREUR : 404 Client Error: Not Found for url: https://careers.ey.com/ey/search/?q=intern& |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
@@ -26,7 +26,7 @@
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
-| Brookfield | 143 lus, 0 retenus |
+| Brookfield | ERREUR : 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/ |
 | Perella Weinberg | 7 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
@@ -35,7 +35,7 @@
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 10 lus, 1 retenus |
-| Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
+| Intesa Sanpaolo (plan B M&A, Milan) | ERREUR : 404 Client Error: Not Found for url: https://jobs.intesasanpaolo.com/search/?cre |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | 36 lus, 1 retenus |
