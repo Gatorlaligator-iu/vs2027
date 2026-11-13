@@ -22,7 +22,7 @@
 | Lazard (officiel) | 75 lus, 10 retenus |
 | FTI Consulting (officiel) | 57 lus, 4 retenus |
 | Ardian (officiel) | 65 lus, 1 retenus |
-| BCG (officiel) | 283 lus, 1 retenus |
+| BCG (officiel) | 284 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
