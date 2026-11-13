@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | 35 lus, 1 retenus |
+| Aurelius (Munich, turnaround) | 36 lus, 1 retenus |
 | Lincoln International | 36 lus, 1 retenus |
 | Evercore (Europe) | 1 lus, 1 retenus |
 | KKR | 8 lus, 1 retenus |
