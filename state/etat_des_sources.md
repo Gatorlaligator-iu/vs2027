@@ -10,7 +10,7 @@
 | AlixPartners (officiel) | 126 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 14 lus, 0 retenus |
-| Roland Berger (officiel) | 207 lus, 7 retenus |
+| Roland Berger (officiel) | 206 lus, 7 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 75 lus, 10 retenus |
-| FTI Consulting (officiel) | 57 lus, 4 retenus |
+| FTI Consulting (officiel) | 54 lus, 4 retenus |
 | Ardian (officiel) | 66 lus, 1 retenus |
 | BCG (officiel) | 282 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
