@@ -12,7 +12,7 @@
 | Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 207 lus, 7 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | ERREUR : 502 Server Error: Bad Gateway for url: https://pjtpartners.wd1.myworkdayjobs.com |
+| PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
 | Oliver Wyman | 97 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
