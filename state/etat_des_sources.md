@@ -10,8 +10,8 @@
 | AlixPartners (officiel) | 126 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 14 lus, 0 retenus |
-| Roland Berger (officiel) | 208 lus, 7 retenus |
-| PAI Partners | ERREUR : 500 Server Error: Internal Server Error for url: https://careers.paipartners.com |
+| Roland Berger (officiel) | 207 lus, 7 retenus |
+| PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 33 lus, 0 retenus |
 | Oliver Wyman | 97 lus, 1 retenus |
@@ -25,7 +25,7 @@
 | BCG (officiel) | 282 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
-| Meridiam | ERREUR : 500 Server Error: Internal Server Error for url: https://meridiam.recruitee.com/ |
+| Meridiam | 5 lus, 0 retenus |
 | Brookfield | 143 lus, 0 retenus |
 | Perella Weinberg | 7 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
