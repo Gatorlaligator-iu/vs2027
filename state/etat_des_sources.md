@@ -9,7 +9,7 @@
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 128 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
-| Bain (via iAgora) | 15 lus, 0 retenus |
+| Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 209 lus, 7 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
