@@ -26,8 +26,8 @@
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
-| Brookfield | ERREUR : Expecting value: line 1 column 1 (char 0) |
-| Perella Weinberg | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Brookfield | 144 lus, 0 retenus |
+| Perella Weinberg | 7 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
