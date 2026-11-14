@@ -15,7 +15,7 @@
 | PJT Partners | ERREUR : 521 Server Error: <none> for url: https://pjtpartners.wd1.myworkdayjobs.com/wday |
 | Moelis | ERREUR : 521 Server Error: <none> for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/ |
 | Oliver Wyman | ERREUR : 521 Server Error: <none> for url: https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc |
-| EY (dont EY-Parthenon) | ERREUR : HTTPSConnectionPool(host='careers.ey.com', port=443): Read timed out. (read time |
+| EY (dont EY-Parthenon) | ERREUR : 503 Server Error: Service Unavailable for url: https://careers.ey.com/ey/search/ |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
@@ -35,7 +35,7 @@
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 10 lus, 1 retenus |
-| Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
+| Intesa Sanpaolo (plan B M&A, Milan) | ERREUR : 503 Server Error: Service Unavailable for url: https://jobs.intesasanpaolo.com/s |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | 36 lus, 1 retenus |
