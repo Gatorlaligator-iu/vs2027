@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 75 lus, 10 retenus |
-| FTI Consulting (officiel) | ERREUR : 503 Server Error: Service Unavailable for url: https://fticonsulting.wd108.mywor |
+| FTI Consulting (officiel) | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Ardian (officiel) | 65 lus, 1 retenus |
 | BCG (officiel) | 287 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | 36 lus, 1 retenus |
+| Aurelius (Munich, turnaround) | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Lincoln International | 36 lus, 1 retenus |
 | Evercore (Europe) | 1 lus, 1 retenus |
 | KKR | 8 lus, 1 retenus |
