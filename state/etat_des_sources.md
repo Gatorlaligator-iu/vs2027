@@ -12,8 +12,8 @@
 | Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 207 lus, 7 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | ERREUR : Expecting value: line 1 column 1 (char 0) |
-| Moelis | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| PJT Partners | 53 lus, 0 retenus |
+| Moelis | 32 lus, 0 retenus |
 | Oliver Wyman | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
