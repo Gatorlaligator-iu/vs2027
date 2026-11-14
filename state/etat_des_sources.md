@@ -35,7 +35,7 @@
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 10 lus, 1 retenus |
-| Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
+| Intesa Sanpaolo (plan B M&A, Milan) | ERREUR : HTTPSConnectionPool(host='jobs.intesasanpaolo.com', port=443): Read timed out. ( |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | 36 lus, 1 retenus |
