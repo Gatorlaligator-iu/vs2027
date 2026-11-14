@@ -14,7 +14,7 @@
 | PAI Partners | 16 lus, 0 retenus |
 | PJT Partners | ERREUR : 521 Server Error: <none> for url: https://pjtpartners.wd1.myworkdayjobs.com/wday |
 | Moelis | ERREUR : 521 Server Error: <none> for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/ |
-| Oliver Wyman | 97 lus, 1 retenus |
+| Oliver Wyman | ERREUR : 521 Server Error: <none> for url: https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc |
 | EY (dont EY-Parthenon) | ERREUR : 404 Client Error: Not Found for url: https://careers.ey.com/ey/search/?q=intern& |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
