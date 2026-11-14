@@ -15,12 +15,12 @@
 | PJT Partners | ERREUR : 521 Server Error: <none> for url: https://pjtpartners.wd1.myworkdayjobs.com/wday |
 | Moelis | ERREUR : 521 Server Error: <none> for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/ |
 | Oliver Wyman | ERREUR : 521 Server Error: <none> for url: https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc |
-| EY (dont EY-Parthenon) | 25 lus, 0 retenus |
+| EY (dont EY-Parthenon) | ERREUR : HTTPSConnectionPool(host='careers.ey.com', port=443): Read timed out. (read time |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 75 lus, 10 retenus |
-| FTI Consulting (officiel) | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| FTI Consulting (officiel) | ERREUR : HTTPSConnectionPool(host='fticonsulting.wd108.myworkdayjobs.com', port=443): Rea |
 | Ardian (officiel) | 65 lus, 1 retenus |
 | BCG (officiel) | 287 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
