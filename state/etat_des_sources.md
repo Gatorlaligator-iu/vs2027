@@ -20,14 +20,14 @@
 | Accuracy | ERREUR : 503 Server Error: Service Temporarily Unavailable for url: https://www.accuracy. |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 75 lus, 10 retenus |
-| FTI Consulting (officiel) | 49 lus, 4 retenus |
+| FTI Consulting (officiel) | ERREUR : 503 Server Error: Service Unavailable for url: https://fticonsulting.wd108.mywor |
 | Ardian (officiel) | 65 lus, 1 retenus |
 | BCG (officiel) | 287 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/ |
-| Perella Weinberg | 7 lus, 0 retenus |
+| Perella Weinberg | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
