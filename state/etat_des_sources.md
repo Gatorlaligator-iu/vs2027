@@ -14,7 +14,7 @@
 | PAI Partners | 16 lus, 0 retenus |
 | PJT Partners | 53 lus, 0 retenus |
 | Moelis | 32 lus, 0 retenus |
-| Oliver Wyman | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Oliver Wyman | 97 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
