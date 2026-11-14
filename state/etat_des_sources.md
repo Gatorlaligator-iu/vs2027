@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | ERREUR : 521 Server Error: <none> for url: https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/C |
+| Houlihan Lokey | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Rothschild & Co | 25 lus, 12 retenus |
 | Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
@@ -12,9 +12,9 @@
 | Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 207 lus, 7 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | ERREUR : 521 Server Error: <none> for url: https://pjtpartners.wd1.myworkdayjobs.com/wday |
-| Moelis | ERREUR : 521 Server Error: <none> for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/ |
-| Oliver Wyman | ERREUR : 521 Server Error: <none> for url: https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc |
+| PJT Partners | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Moelis | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Oliver Wyman | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | ERREUR : 503 Server Error: Service Temporarily Unavailable for url: https://www.accuracy. |
@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Aurelius (Munich, turnaround) | 36 lus, 1 retenus |
 | Lincoln International | 36 lus, 1 retenus |
 | Evercore (Europe) | 1 lus, 1 retenus |
 | KKR | 8 lus, 1 retenus |
