@@ -21,14 +21,14 @@
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 75 lus, 10 retenus |
 | FTI Consulting (officiel) | 49 lus, 4 retenus |
-| Ardian (officiel) | 65 lus, 1 retenus |
+| Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 286 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | 144 lus, 0 retenus |
 | Perella Weinberg | 7 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
+| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 122 lus, 12 retenus |
