@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
+| Houlihan Lokey | 51 lus, 2 retenus |
 | Rothschild & Co | 25 lus, 12 retenus |
 | Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
@@ -12,9 +12,9 @@
 | Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 207 lus, 7 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
-| Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
-| Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
+| PJT Partners | 53 lus, 0 retenus |
+| Moelis | 32 lus, 0 retenus |
+| Oliver Wyman | 97 lus, 1 retenus |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
@@ -33,7 +33,7 @@
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 122 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
-| Macquarie | 3 lus, 0 retenus |
+| Macquarie | ERREUR : 406 Client Error: Not Acceptable for url: https://recruitment.macquarie.com/en_U |
 | Swen Capital Partners | 10 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
