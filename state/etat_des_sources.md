@@ -33,7 +33,7 @@
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 122 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
-| Macquarie | ERREUR : 406 Client Error: Not Acceptable for url: https://recruitment.macquarie.com/en_U |
+| Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 10 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
