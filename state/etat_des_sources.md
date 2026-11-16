@@ -19,7 +19,7 @@
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
-| Lazard (officiel) | 74 lus, 9 retenus |
+| Lazard (officiel) | 73 lus, 9 retenus |
 | FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 286 lus, 1 retenus |
