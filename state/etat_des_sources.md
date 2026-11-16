@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | 51 lus, 2 retenus |
+| Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
 | Rothschild & Co | 25 lus, 12 retenus |
 | Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 73 lus, 9 retenus |
-| FTI Consulting (officiel) | 48 lus, 4 retenus |
+| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 291 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
