@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 73 lus, 10 retenus |
-| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
+| FTI Consulting (officiel) | 48 lus, 4 retenus |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 292 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
