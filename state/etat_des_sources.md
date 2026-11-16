@@ -12,7 +12,7 @@
 | Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 206 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
+| PJT Partners | 53 lus, 0 retenus |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
@@ -28,7 +28,7 @@
 | Meridiam | 4 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 7 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
+| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 123 lus, 12 retenus |
@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | 35 lus, 1 retenus |
+| Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
 | Lincoln International | 35 lus, 1 retenus |
 | Evercore (Europe) | 1 lus, 1 retenus |
 | KKR | 8 lus, 1 retenus |
