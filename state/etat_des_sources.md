@@ -7,13 +7,13 @@
 | Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
-| AlixPartners (officiel) | 132 lus, 0 retenus |
+| AlixPartners (officiel) | 131 lus, 0 retenus |
 | McKinsey (via iAgora) | 31 lus, 0 retenus |
 | Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 206 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | 53 lus, 0 retenus |
-| Moelis | 32 lus, 0 retenus |
+| PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
+| Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
+| Aurelius (Munich, turnaround) | 35 lus, 1 retenus |
 | Lincoln International | 35 lus, 1 retenus |
 | Evercore (Europe) | 1 lus, 1 retenus |
 | KKR | 8 lus, 1 retenus |
