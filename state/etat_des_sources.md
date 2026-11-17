@@ -15,7 +15,7 @@
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
-| EY (dont EY-Parthenon) | ERREUR : HTTPSConnectionPool(host='careers.ey.com', port=443): Read timed out. (read time |
+| EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
@@ -34,7 +34,7 @@
 | Simon-Kucher | 127 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
-| Swen Capital Partners | ERREUR : HTTPSConnectionPool(host='www.ofi-invest.com', port=443): Read timed out. (read  |
+| Swen Capital Partners | 9 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
