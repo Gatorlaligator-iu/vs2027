@@ -15,12 +15,12 @@
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
-| EY (dont EY-Parthenon) | ERREUR : 503 Server Error: Service Unavailable for url: https://careers.ey.com/ey/search/ |
+| EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 72 lus, 10 retenus |
-| FTI Consulting (officiel) | 52 lus, 4 retenus |
+| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 295 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
@@ -35,7 +35,7 @@
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 9 lus, 1 retenus |
-| Intesa Sanpaolo (plan B M&A, Milan) | ERREUR : HTTPSConnectionPool(host='jobs.intesasanpaolo.com', port=443): Read timed out. ( |
+| Intesa Sanpaolo (plan B M&A, Milan) | ERREUR : 503 Server Error: Service Unavailable for url: https://jobs.intesasanpaolo.com/s |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
