@@ -10,7 +10,7 @@
 | AlixPartners (officiel) | 132 lus, 0 retenus |
 | McKinsey (via iAgora) | 31 lus, 0 retenus |
 | Bain (via iAgora) | 14 lus, 0 retenus |
-| Roland Berger (officiel) | 206 lus, 6 retenus |
+| Roland Berger (officiel) | 207 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 72 lus, 10 retenus |
-| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
+| FTI Consulting (officiel) | 48 lus, 4 retenus |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 295 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
@@ -28,10 +28,10 @@
 | Meridiam | 4 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 5 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
+| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 127 lus, 12 retenus |
+| Simon-Kucher | 126 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 9 lus, 1 retenus |
