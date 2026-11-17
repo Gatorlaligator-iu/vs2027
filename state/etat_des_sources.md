@@ -35,7 +35,7 @@
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 9 lus, 1 retenus |
-| Intesa Sanpaolo (plan B M&A, Milan) | ERREUR : 503 Server Error: Service Unavailable for url: https://jobs.intesasanpaolo.com/s |
+| Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
