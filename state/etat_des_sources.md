@@ -9,7 +9,7 @@
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 132 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
-| Bain (via iAgora) | 14 lus, 0 retenus |
+| Bain (via iAgora) | 13 lus, 0 retenus |
 | Roland Berger (officiel) | 210 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 71 lus, 10 retenus |
-| FTI Consulting (officiel) | 54 lus, 5 retenus |
+| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 300 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
