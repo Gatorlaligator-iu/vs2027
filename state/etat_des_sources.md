@@ -28,7 +28,7 @@
 | Meridiam | 4 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 5 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
+| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 128 lus, 12 retenus |
@@ -40,5 +40,5 @@
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
 | Lincoln International | 35 lus, 1 retenus |
-| Evercore (Europe) | 1 lus, 1 retenus |
+| Evercore (Europe) | 2 lus, 2 retenus |
 | KKR | 10 lus, 1 retenus |
