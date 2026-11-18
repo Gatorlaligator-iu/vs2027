@@ -8,7 +8,7 @@
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 132 lus, 0 retenus |
-| McKinsey (via iAgora) | 31 lus, 0 retenus |
+| McKinsey (via iAgora) | 32 lus, 0 retenus |
 | Bain (via iAgora) | 14 lus, 0 retenus |
 | Roland Berger (officiel) | 210 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
