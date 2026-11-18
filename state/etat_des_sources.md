@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | 48 lus, 2 retenus |
+| Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
 | Rothschild & Co | 23 lus, 12 retenus |
 | Rothschild & Co – Paris | 14 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
@@ -12,8 +12,8 @@
 | Bain (via iAgora) | 13 lus, 0 retenus |
 | Roland Berger (officiel) | 209 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | 52 lus, 0 retenus |
-| Moelis | 32 lus, 0 retenus |
+| PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
+| Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
