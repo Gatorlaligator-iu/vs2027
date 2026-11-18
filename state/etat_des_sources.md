@@ -33,7 +33,7 @@
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 128 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
-| Macquarie | 3 lus, 0 retenus |
+| Macquarie | 2 lus, 0 retenus |
 | Swen Capital Partners | 8 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
@@ -41,4 +41,4 @@
 | Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
 | Lincoln International | 35 lus, 1 retenus |
 | Evercore (Europe) | 2 lus, 2 retenus |
-| KKR | 10 lus, 1 retenus |
+| KKR | 9 lus, 1 retenus |
