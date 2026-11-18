@@ -36,7 +36,7 @@
 | Macquarie | 3 lus, 0 retenus |
 | Swen Capital Partners | 9 lus, 1 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
-| Antin Infrastructure Partners | ERREUR : HTTPSConnectionPool(host='antininfrastructurepartners-1655458195.teamtailor.com' |
+| Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
 | Lincoln International | 35 lus, 1 retenus |
