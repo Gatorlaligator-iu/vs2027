@@ -19,8 +19,8 @@
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
-| Lazard (officiel) | 70 lus, 10 retenus |
-| FTI Consulting (officiel) | 54 lus, 5 retenus |
+| Lazard (officiel) | 69 lus, 10 retenus |
+| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 296 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
@@ -39,6 +39,6 @@
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
 | Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
-| Lincoln International | 35 lus, 1 retenus |
+| Lincoln International | 36 lus, 1 retenus |
 | Evercore (Europe) | 2 lus, 2 retenus |
 | KKR | 10 lus, 1 retenus |
