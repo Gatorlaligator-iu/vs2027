@@ -7,7 +7,7 @@
 | Rothschild & Co – Paris | 15 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
-| AlixPartners (officiel) | 131 lus, 0 retenus |
+| AlixPartners (officiel) | 130 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
 | Bain (via iAgora) | 13 lus, 0 retenus |
 | Roland Berger (officiel) | 207 lus, 6 retenus |
@@ -34,7 +34,7 @@
 | Simon-Kucher | 123 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 2 lus, 0 retenus |
-| Swen Capital Partners | ERREUR : HTTPSConnectionPool(host='www.ofi-invest.com', port=443): Read timed out. (read  |
+| Swen Capital Partners | 9 lus, 2 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
