@@ -22,7 +22,7 @@
 | Lazard (officiel) | 60 lus, 10 retenus |
 | FTI Consulting (officiel) | 54 lus, 5 retenus |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
-| BCG (officiel) | 295 lus, 1 retenus |
+| BCG (officiel) | 294 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 4 lus, 0 retenus |
