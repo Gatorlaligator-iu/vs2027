@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | 48 lus, 2 retenus |
+| Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
 | Rothschild & Co | 23 lus, 12 retenus |
 | Rothschild & Co – Paris | 14 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
