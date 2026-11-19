@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 60 lus, 10 retenus |
-| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
+| FTI Consulting (officiel) | 54 lus, 5 retenus |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 294 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
@@ -31,7 +31,7 @@
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 125 lus, 12 retenus |
+| Simon-Kucher | 124 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 2 lus, 0 retenus |
 | Swen Capital Partners | 8 lus, 1 retenus |
