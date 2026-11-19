@@ -10,7 +10,7 @@
 | AlixPartners (officiel) | 131 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
 | Bain (via iAgora) | 13 lus, 0 retenus |
-| Roland Berger (officiel) | 207 lus, 6 retenus |
+| Roland Berger (officiel) | 206 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
@@ -28,7 +28,7 @@
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 4 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
+| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 123 lus, 12 retenus |
