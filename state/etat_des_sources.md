@@ -7,7 +7,7 @@
 | Rothschild & Co – Paris | 15 lus, 11 retenus |
 | Five Arrows (Rothschild) | 5 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
-| AlixPartners (officiel) | 130 lus, 0 retenus |
+| AlixPartners (officiel) | 131 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
 | Bain (via iAgora) | 13 lus, 0 retenus |
 | Roland Berger (officiel) | 207 lus, 6 retenus |
@@ -27,7 +27,7 @@
 | Bpifrance (officiel) | 7 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
-| Perella Weinberg | 5 lus, 0 retenus |
+| Perella Weinberg | 4 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 11 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
