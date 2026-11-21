@@ -27,7 +27,7 @@
 | Bpifrance (officiel) | 6 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
-| Perella Weinberg | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Perella Weinberg | 4 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 13 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
