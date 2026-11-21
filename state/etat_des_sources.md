@@ -3,9 +3,9 @@
 | Source | Résultat |
 |---|---|
 | Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
-| Rothschild & Co | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
-| Rothschild & Co – Paris | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
-| Five Arrows (Rothschild) | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
+| Rothschild & Co | 24 lus, 12 retenus |
+| Rothschild & Co – Paris | 15 lus, 11 retenus |
+| Five Arrows (Rothschild) | 5 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 134 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
@@ -26,7 +26,7 @@
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 6 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
-| Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
+| Brookfield | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Perella Weinberg | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 13 lus, 0 retenus |
