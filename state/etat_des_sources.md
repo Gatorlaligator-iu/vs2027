@@ -3,7 +3,7 @@
 | Source | Résultat |
 |---|---|
 | Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
-| Rothschild & Co | ERREUR : 503 Server Error: Service Unavailable for url: https://www.rothschildandco.com/f |
+| Rothschild & Co | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
 | Rothschild & Co – Paris | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
 | Five Arrows (Rothschild) | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
