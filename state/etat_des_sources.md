@@ -9,7 +9,7 @@
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 134 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
-| Bain (via iAgora) | 13 lus, 0 retenus |
+| Bain (via iAgora) | 12 lus, 0 retenus |
 | Roland Berger (officiel) | 206 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
