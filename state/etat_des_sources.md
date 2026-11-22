@@ -12,7 +12,7 @@
 | Bain (via iAgora) | 12 lus, 0 retenus |
 | Roland Berger (officiel) | 205 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
+| PJT Partners | 43 lus, 0 retenus |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 59 lus, 10 retenus |
-| FTI Consulting (officiel) | 34 lus, 3 retenus |
+| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 290 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
@@ -34,7 +34,7 @@
 | Simon-Kucher | 123 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 2 lus, 0 retenus |
-| Swen Capital Partners | 9 lus, 2 retenus |
+| Swen Capital Partners | ERREUR : HTTPSConnectionPool(host='www.ofi-invest.com', port=443): Read timed out. (read  |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
