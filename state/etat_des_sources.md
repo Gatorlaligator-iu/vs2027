@@ -3,16 +3,16 @@
 | Source | Résultat |
 |---|---|
 | Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
-| Rothschild & Co | 24 lus, 12 retenus |
-| Rothschild & Co – Paris | 15 lus, 11 retenus |
-| Five Arrows (Rothschild) | 5 lus, 1 retenus |
+| Rothschild & Co | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
+| Rothschild & Co – Paris | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
+| Five Arrows (Rothschild) | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 134 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
 | Bain (via iAgora) | 12 lus, 0 retenus |
 | Roland Berger (officiel) | 205 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | 43 lus, 0 retenus |
+| PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
@@ -20,7 +20,7 @@
 | Accuracy | ERREUR : 503 Server Error: Service Temporarily Unavailable for url: https://www.accuracy. |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 59 lus, 10 retenus |
-| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
+| FTI Consulting (officiel) | 35 lus, 3 retenus |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 290 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
