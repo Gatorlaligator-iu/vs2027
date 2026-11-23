@@ -20,7 +20,7 @@
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 57 lus, 10 retenus |
-| FTI Consulting (officiel) | 34 lus, 3 retenus |
+| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 296 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
@@ -34,7 +34,7 @@
 | Simon-Kucher | 119 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 2 lus, 0 retenus |
-| Swen Capital Partners | ERREUR : HTTPSConnectionPool(host='www.ofi-invest.com', port=443): Read timed out. (read  |
+| Swen Capital Partners | 11 lus, 2 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 23 lus, 1 retenus |
