@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
+| Houlihan Lokey | 49 lus, 2 retenus |
 | Rothschild & Co | 24 lus, 12 retenus |
 | Rothschild & Co – Paris | 16 lus, 11 retenus |
 | Five Arrows (Rothschild) | 6 lus, 1 retenus |
@@ -16,7 +16,7 @@
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
-| Eight Advisory | 67 lus, 0 retenus |
+| Eight Advisory | ERREUR : 503 Server Error: Service Unavailable for url: https://www.8advisory.com/en/ |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 59 lus, 10 retenus |
@@ -28,7 +28,7 @@
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 4 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
+| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 13 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 119 lus, 12 retenus |
