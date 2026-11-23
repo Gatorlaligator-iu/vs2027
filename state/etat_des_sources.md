@@ -22,13 +22,13 @@
 | Lazard (officiel) | 59 lus, 10 retenus |
 | FTI Consulting (officiel) | 34 lus, 3 retenus |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
-| BCG (officiel) | 290 lus, 1 retenus |
+| BCG (officiel) | 286 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 6 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 4 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
+| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
 | EQT | 13 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 123 lus, 12 retenus |
