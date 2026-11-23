@@ -4,8 +4,8 @@
 |---|---|
 | Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
 | Rothschild & Co | 24 lus, 12 retenus |
-| Rothschild & Co – Paris | 15 lus, 11 retenus |
-| Five Arrows (Rothschild) | 5 lus, 1 retenus |
+| Rothschild & Co – Paris | 16 lus, 11 retenus |
+| Five Arrows (Rothschild) | 6 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 134 lus, 0 retenus |
 | McKinsey (via iAgora) | 32 lus, 0 retenus |
