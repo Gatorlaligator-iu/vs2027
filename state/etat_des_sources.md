@@ -29,7 +29,7 @@
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 4 lus, 0 retenus |
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
-| EQT | 15 lus, 0 retenus |
+| EQT | 16 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 119 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
