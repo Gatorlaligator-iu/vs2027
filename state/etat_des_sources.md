@@ -12,7 +12,7 @@
 | Bain (via iAgora) | 12 lus, 0 retenus |
 | Roland Berger (officiel) | 205 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
-| PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
+| PJT Partners | 43 lus, 0 retenus |
 | Moelis | 27 lus, 0 retenus |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
