@@ -3,12 +3,12 @@
 | Source | Résultat |
 |---|---|
 | Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
-| Rothschild & Co | 24 lus, 12 retenus |
-| Rothschild & Co – Paris | 16 lus, 11 retenus |
-| Five Arrows (Rothschild) | 6 lus, 1 retenus |
+| Rothschild & Co | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
+| Rothschild & Co – Paris | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
+| Five Arrows (Rothschild) | ERREUR : HTTPSConnectionPool(host='www.rothschildandco.com', port=443): Read timed out. ( |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 135 lus, 0 retenus |
-| McKinsey (via iAgora) | 32 lus, 0 retenus |
+| McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 12 lus, 0 retenus |
 | Roland Berger (officiel) | 205 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
