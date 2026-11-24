@@ -5,7 +5,7 @@
 | Houlihan Lokey | 49 lus, 2 retenus |
 | Rothschild & Co | 24 lus, 12 retenus |
 | Rothschild & Co – Paris | 15 lus, 11 retenus |
-| Five Arrows (Rothschild) | 5 lus, 1 retenus |
+| Five Arrows (Rothschild) | 4 lus, 1 retenus |
 | Alvarez & Marsal (via iAgora) | 12 lus, 0 retenus |
 | AlixPartners (officiel) | 135 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
@@ -31,7 +31,7 @@
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 17 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 117 lus, 12 retenus |
+| Simon-Kucher | 118 lus, 12 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 2 lus, 0 retenus |
 | Swen Capital Partners | 11 lus, 2 retenus |
