@@ -10,7 +10,7 @@
 | AlixPartners (officiel) | 134 lus, 0 retenus |
 | McKinsey (via iAgora) | 33 lus, 0 retenus |
 | Bain (via iAgora) | 12 lus, 0 retenus |
-| Roland Berger (officiel) | 207 lus, 6 retenus |
+| Roland Berger (officiel) | 209 lus, 6 retenus |
 | PAI Partners | 16 lus, 0 retenus |
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
 | Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
@@ -34,7 +34,7 @@
 | Simon-Kucher | 113 lus, 9 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 2 lus, 0 retenus |
-| Swen Capital Partners | 11 lus, 2 retenus |
+| Swen Capital Partners | 10 lus, 2 retenus |
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 23 lus, 1 retenus |
