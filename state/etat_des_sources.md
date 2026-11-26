@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 24 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | 36 lus, 2 retenus |
+| Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
 | Lincoln International | 40 lus, 1 retenus |
 | Evercore (Europe) | 2 lus, 2 retenus |
 | KKR | 10 lus, 1 retenus |
