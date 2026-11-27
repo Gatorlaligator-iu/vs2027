@@ -31,7 +31,7 @@
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 15 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
-| Simon-Kucher | 115 lus, 9 retenus |
+| Simon-Kucher | 114 lus, 9 retenus |
 | Infravia | 2 lus, 1 retenus |
 | Macquarie | 2 lus, 0 retenus |
 | Swen Capital Partners | 10 lus, 2 retenus |
