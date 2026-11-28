@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
+| Houlihan Lokey | 46 lus, 2 retenus |
 | Rothschild & Co | 14 lus, 12 retenus |
 | Rothschild & Co – Paris | 15 lus, 11 retenus |
 | Five Arrows (Rothschild) | 2 lus, 0 retenus |
@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 23 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
+| Aurelius (Munich, turnaround) | 39 lus, 3 retenus |
 | Lincoln International | 42 lus, 1 retenus |
 | Evercore (Europe) | 2 lus, 2 retenus |
 | KKR | 10 lus, 1 retenus |
