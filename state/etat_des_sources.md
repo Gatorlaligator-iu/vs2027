@@ -2,7 +2,7 @@
 
 | Source | Résultat |
 |---|---|
-| Houlihan Lokey | ERREUR : 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wd |
+| Houlihan Lokey | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Rothschild & Co | 14 lus, 12 retenus |
 | Rothschild & Co – Paris | 15 lus, 11 retenus |
 | Five Arrows (Rothschild) | 2 lus, 0 retenus |
@@ -12,22 +12,22 @@
 | Bain (via iAgora) | 12 lus, 0 retenus |
 | Roland Berger (officiel) | 209 lus, 6 retenus |
 | PAI Partners | 14 lus, 0 retenus |
-| PJT Partners | ERREUR : HTTPSConnectionPool(host='pjtpartners.wd1.myworkdayjobs.com', port=443): Read ti |
-| Moelis | ERREUR : 500 Server Error: Internal Server Error for url: https://moelis.wd1.myworkdayjob |
-| Oliver Wyman | ERREUR : 500 Server Error: Internal Server Error for url: https://mmc.wd1.myworkdayjobs.c |
+| PJT Partners | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Moelis | ERREUR : Expecting value: line 1 column 1 (char 0) |
+| Oliver Wyman | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
 | Accuracy | 43 lus, 0 retenus |
 | Tikehau Capital | 67 lus, 0 retenus |
 | Lazard (officiel) | 54 lus, 10 retenus |
-| FTI Consulting (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkd |
+| FTI Consulting (officiel) | 35 lus, 3 retenus |
 | Ardian (officiel) | ERREUR : 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs. |
 | BCG (officiel) | 288 lus, 1 retenus |
 | Kearney (officiel) | 25 lus, 0 retenus |
 | Bpifrance (officiel) | 6 lus, 0 retenus |
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
-| Perella Weinberg | ERREUR : 500 Server Error: Internal Server Error for url: https://wd1.myworkdaysite.com/w |
+| Perella Weinberg | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 15 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
@@ -38,7 +38,7 @@
 | Intesa Sanpaolo (plan B M&A, Milan) | 25 lus, 0 retenus |
 | Antin Infrastructure Partners | 1 lus, 0 retenus |
 | Mutares (Munich, turnaround) | 23 lus, 1 retenus |
-| Aurelius (Munich, turnaround) | ERREUR : 429 Client Error: Too Many Requests for url: https://aureliusinvest.wd3.myworkda |
+| Aurelius (Munich, turnaround) | ERREUR : Expecting value: line 1 column 1 (char 0) |
 | Lincoln International | 42 lus, 1 retenus |
 | Evercore (Europe) | 2 lus, 2 retenus |
 | KKR | 10 lus, 1 retenus |
