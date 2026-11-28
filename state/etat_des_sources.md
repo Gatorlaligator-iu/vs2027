@@ -13,7 +13,7 @@
 | Roland Berger (officiel) | 209 lus, 6 retenus |
 | PAI Partners | 14 lus, 0 retenus |
 | PJT Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjo |
-| Moelis | 27 lus, 0 retenus |
+| Moelis | ERREUR : 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.co |
 | Oliver Wyman | ERREUR : 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/w |
 | EY (dont EY-Parthenon) | 25 lus, 0 retenus |
 | Eight Advisory | 67 lus, 0 retenus |
@@ -28,7 +28,7 @@
 | Meridiam | 5 lus, 0 retenus |
 | Brookfield | ERREUR : 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjob |
 | Perella Weinberg | 4 lus, 0 retenus |
-| Copenhagen Infrastructure Partners | 1 lus, 0 retenus |
+| Copenhagen Infrastructure Partners | ERREUR : 429 Client Error: Too Many Requests for url: https://cip.wd103.myworkdayjobs.com |
 | EQT | 15 lus, 0 retenus |
 | Cinven | 1 lus, 0 retenus |
 | Simon-Kucher | 113 lus, 9 retenus |
